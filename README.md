@@ -36,7 +36,7 @@ Ravi is a Blinkit delivery worker in Chennai. During heavy rain and waterlogging
 
 Core Solution
 
- ~ GigShield AI provides:
+ GigShield AI provides:
 
  ~ Fast worker onboarding
 
@@ -246,6 +246,7 @@ Frontend
 Backend
  - Node.js
  - Express.js
+   
 Database
  - MongoDB
 
