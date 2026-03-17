@@ -74,9 +74,9 @@ Sample Weekly Plans
 
 | Plan     | Weekly Premium | Weekly Coverage | Suitable For      |
 | -------- | -------------- | --------------- | ----------------- |
-| Basic    | ₹20            | Up to ₹400      | Low-risk zones    |
-| Standard | ₹30            | Up to ₹800      | Medium-risk zones |
-| Plus     | ₹40            | Up to ₹1200     | High-risk zones   |
+| Basic    | ₹29            | Up to ₹400      | Low-risk zones    |
+| Standard | ₹49            | Up to ₹800      | Medium-risk zones |
+| Plus     | ₹69            | Up to ₹1200     | High-risk zones   |
 
 Premium depends on
 
